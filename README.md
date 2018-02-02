@@ -77,7 +77,8 @@ You will notice that most of the goal scoring aerial training is in the later st
 
 I know that these rules may seem harsh, but they will produce the most results. **Not following these rules will just waste your time and effort.**
 
-# Kirfy's (Y.'s) Training Path to Champ
+# Road to Champ
+> "The journey of a thousand miles begins with one step." - Lao Tzu  
 
 ## STAGE 1 - Training the Core Skills
 
