@@ -2,8 +2,10 @@
 
 
 # THE ULTIMATE ROCKET LEAGUE TRAINING PROGRAM
-by Kirfy (A.k.a. Y. http://steamcommunity.com/id/jugloo)
-Champ 2 at time of writing.
+
+***Thanks to all of the following volunteers who helped develop this training guide, couldn't have done it without you!***
+
+- Trainee #1
 
 ## Note to Trainees using this guide:
 Hey guys! Here's the training guide as promised. However I need to clarify a few things...  
@@ -13,9 +15,9 @@ Hey guys! Here's the training guide as promised. However I need to clarify a few
 Anyway, reach out to me if you need any help, or anything at all!
 
 ### ** IMPORTANT - FEEDBACK REQUEST - HELP IMPROVE THIS TRAINING **
-For those of you who are helping me develop this training I need you to provide me with important information after you complete each part of the training. These are extremely valuable as they will help us adjust the training to make it more effective.
+For those of you who want to help develop this training I kindly ask that you provide some quick feedback after you complete each part of the training. This feedback is extremely valuable as it will help adjust the training to make it more effective, and fix any mistakes.
 
-These are:
+Please provide:
 1. Your Rank when you are attempting each training, in 1v1s and 2v2s.
 2. How long it took you to complete the completion challenge after you started the training.
 3. If you've noticed improvement in game play in your games after the training.
