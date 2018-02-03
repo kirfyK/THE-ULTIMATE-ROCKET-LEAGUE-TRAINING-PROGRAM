@@ -120,7 +120,7 @@ https://www.youtube.com/watch?v=wcJwP5K1sO4 Johnyboi
 Definitely watch more, just make sure you know one basic pro-level kickoff. They're not hard to do
 
 ***Do:***  
-Use this training pack to try out your kickoffs: 2F25-C7AD-8E03-19BC
+Use this training pack to try out your kickoffs: **2F25-C7AD-8E03-19BC**    
 Play 20 games, paying close attention to your new kickoff technique that you learned from the videos. Do not worry about winning the game. Worry about improving your kickoff.
 
 **Completion Challenge:**   
