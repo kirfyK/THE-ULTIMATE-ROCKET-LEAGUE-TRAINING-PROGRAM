@@ -268,4 +268,21 @@ Get a score of 70% or more at least 3 times.
 
 **ANY RANK SHOULD BE ABLE TO COMPLETE THIS TRAINING**
 
-## STAGE 2 - UN-RELEASED.
+## STAGE 2 - More Core Skill Training.
+### UN-RELEASED. Will be released when STAGE 1 is tweaked fixed and announced as complete. Please submit feedback on STAGE 1 so STAGE 2 can be released.
+
+## STAGE 3
+### In progress.
+
+## STAGE 4
+### In progress.
+
+## STAGE 5
+### In progress.
+
+## STAGE 6
+### In progress.
+
+## MENTAL GAME TRAINING (Decision making)
+### In progress.
+
