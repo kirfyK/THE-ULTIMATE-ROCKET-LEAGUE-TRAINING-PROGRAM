@@ -4,7 +4,7 @@
 ***Thanks to all of the following volunteers who helped develop this training guide, couldn't have done it without you!***
 
 **Authors:**
-- Kirfy
+- Kirfy ( www.twitch.tv/kify )
 
 **Co-Authors:**
 (submit a significant amount of changes to this guide that are approved to be added here!)
