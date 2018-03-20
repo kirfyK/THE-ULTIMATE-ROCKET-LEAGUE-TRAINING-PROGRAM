@@ -43,8 +43,9 @@ Post them to the **#training** text channel on discord (join here https://discor
 
 ## Step 1. Configure correct settings.
 ### ALL (PS4, PC, XBOX):
-- Change dodge deadzone to 0.65 *(optional)*
-- Change controller deadzone to 0.03-0.06 *(only set it once, never change it again)*
+- Change dodge deadzone to (RECOMMENDED) 0.55 *(optional)*
+- Change controller deadzone to 0.03-0.015 *(only set it once, never change it again)*
+- Use this visualizer to see what your deadzone looks like https://halfwaydead.gitlab.io/rl-deadzone/
 - Turn off cam shake
 - Turn off controller vibration
 - Set camera settings to something one of the pros use. (pick one you like, then never change it) https://prosettings.net/rocket-league-pro-camera-settings-controller-list/
