@@ -1,3 +1,5 @@
+### [BACK TO MAIN GUIDE](README.md)
+
 ## STAGE 2 - Unleashing Your Wings
 **Stage 2 is all about developing the skills you need to move on to more advanced techniques.** If you skip any of these parts, you will struggle with future stages and more advanced training.
 
@@ -118,4 +120,4 @@ Try doing it far away from the ball (larger rotation) and as close to the ball a
 **Do not move to the next training until you have perfected this.** YOU NEED TO FOCUS ON THIS ONE THING.
 
 
-## STAGE 3 - UNRELEASED
+## [STAGE 3 - UNRELEASED](STAGE3.md)
