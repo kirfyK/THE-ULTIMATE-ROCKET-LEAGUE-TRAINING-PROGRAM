@@ -2,6 +2,7 @@
 ### Official Discord: https://discord.gg/nwXTTNk
 
 ***Thanks to all of the following volunteers who helped develop this training guide, couldn't have done it without you!***
+Contributors are now listed on each individual stage they helped in.
 
 **Authors:**
 - Kirfy ( www.twitch.tv/kify )
@@ -9,11 +10,6 @@
 **Co-Authors:**
 (submit a significant amount of changes to this guide that are approved to be added here!)
 - None
-
-
-**Contributors:**  
-(submit a change to the guide if you want to be added here! Or submit feedback on the discord https://discord.gg/nwXTTNk)
-- Stratus
 
 ## Note to Trainees using this guide:
 Hey guys! Here's the training guide as promised. However I need to clarify a few things...  
