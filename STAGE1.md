@@ -1,5 +1,19 @@
 ### [BACK TO MAIN GUIDE](README.md)
 
+### Authors:
+- Kirfy (https://www.twitch.tv/kify)
+
+Thank you to all who have helped develop STAGE 1 with their valuable feedback, by posting training reports on the guide discord.
+#### Contributors:
+- @stepjonthompson 
+- @coleheadley38 
+- @JayS90 
+- @Newdragon 
+- @Tyco 
+- @xanwhite 
+- @Stratus 
+- @Mechanically Challenged🔰LT💕 
+
 ## STAGE 1 - Training the Core Skills
 
 ### Part 0 - Adjust to new Controls (if you did not change any controls, skip this step)
