@@ -1,5 +1,4 @@
 ### [BACK TO MAIN GUIDE](README.md)
-### [GO TO STAGE 2](STAGE2.md)
 
 ## STAGE 1 - Training the Core Skills
 
