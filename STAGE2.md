@@ -1,5 +1,5 @@
 ### [BACK TO MAIN GUIDE](README.md)
-### [GO TO STAGE 1] (STAGE1.md)
+### [GO TO STAGE 1](STAGE1.md)
 
 ## STAGE 2 - Unleashing Your Wings
 **Stage 2 is all about developing the skills you need to move on to more advanced techniques.** If you skip any of these parts, you will struggle with future stages and more advanced training.
