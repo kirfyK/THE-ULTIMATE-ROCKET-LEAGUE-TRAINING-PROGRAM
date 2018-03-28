@@ -1,3 +1,6 @@
+### [BACK TO MAIN GUIDE](README.md)
+### [GO TO STAGE 2](STAGE2.md)
+
 ## STAGE 1 - Training the Core Skills
 
 ### Part 0 - Adjust to new Controls (if you did not change any controls, skip this step)
@@ -186,4 +189,4 @@ Get a score of 70% or more at least 3 times.
 
 **ANY RANK SHOULD BE ABLE TO COMPLETE THIS TRAINING**
 
-## GO TO STAGE 2 - UNLEASHING YOUR WINGS
+## [GO TO STAGE 2 - UNLEASHING YOUR WINGS](STAGE2.md)
