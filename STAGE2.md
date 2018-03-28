@@ -6,7 +6,7 @@
 
 Think about it like this, before you learn multiplication you first need to learn what numbers are. Before you learn algebra, you first need to learn multiplication. Before you learn calculus you first need to learn algebra, etc. If you are trying to learn advanced math, but are making silly mistakes with simple algebra or other lower skills, you will not be able to develop advanced skills.
 
- After completing Stage 2 you should have developed solid muscle memory that will help you fly with high accuracy. You will be fast. You will be smooth. You will hit aerials you never thought you could.
+ After completing Stage 2 you should have developed solid muscle memory that will help you fly with high accuracy. You will be fast. You will be smooth. **This will help with future aerial training that will be very difficult.**
 
 -------------
 
