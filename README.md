@@ -9,7 +9,17 @@ Contributors are now listed on each individual stage they helped in.
 
 **Co-Authors:**
 (submit a significant amount of changes to this guide that are approved to be added here!)
-- None
+- Newdragon002
+
+**Contributors:**
+- @stepjonthompson 
+- @coleheadley38 
+- @JayS90 
+- @Newdragon 
+- @Tyco 
+- @xanwhite 
+- @Stratus 
+- @Mechanically Challenged🔰LT💕 
 
 ## Note to Trainees using this guide:
 Hey guys! Here's the training guide as promised. However I need to clarify a few things...  
