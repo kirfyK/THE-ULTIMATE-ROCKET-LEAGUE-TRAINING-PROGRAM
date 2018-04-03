@@ -8,6 +8,9 @@ Think about it like this, before you learn multiplication you first need to lear
 
  After completing Stage 2 you should have developed solid muscle memory that will help you fly with high accuracy. You will be fast. You will be smooth. **This will help with future aerial training that will be very difficult.**
 
+# Note to PS4, Xbox, Nintendo Switch players
+Since these parts use a workshop map currently only available on PC, you will not be able to use the map and follow along exactly as the guide states. However, you can still do this training. What this guide says is basically develop flying forward, then focus on backwards, then the sides. There are a lot different drills you can come up with in freeplay to develop these same exact skills, and then with part 5 you can you glue them all together as PC players would. (If anyone has come up with these alternatives and has tested them, please post it on the discord and we can add it to this guide's CONSOLE VERSION. We would write a complete version for Consoles if we had more help for the guide, so if you're interested in helping, join the discord and let us know)
+
 -------------
 
 ### Part 1 - FLYING FACING FORWARD
