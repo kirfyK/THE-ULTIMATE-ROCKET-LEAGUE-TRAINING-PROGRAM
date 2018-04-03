@@ -108,7 +108,7 @@ In this training you will combine all 4 sides into one training. This training w
 
 #### Training:
 ***Watch:***   
-Kevpert - Advanced Car Control | Rocket League Tutorial
+Kevpert - Advanced Car Control | Rocket League Tutorial  
 https://youtu.be/ed8owajA0Lc?t=161
 
 ***Do:***  
