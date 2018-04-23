@@ -5,7 +5,7 @@
 Contributors are now listed on each individual stage they helped in.
 
 **Authors:**
-- Kirfy
+- Kirfy - https://www.twitch.tv/kirfyy
 
 **Co-Authors:**
 (submit a significant amount of changes to this guide that are approved to be added here!)
