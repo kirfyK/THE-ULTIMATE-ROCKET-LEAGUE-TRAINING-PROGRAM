@@ -1,5 +1,5 @@
 # THE ULTIMATE ROCKET LEAGUE TRAINING PROGRAM
-### Official Discord: https://discord.gg/nwXTTNk
+### Official Discord: https://discord.gg/AEcYWEd
 
 ***Thanks to all of the following volunteers who helped develop this training guide, couldn't have done it without you!***
 Contributors are now listed on each individual stage they helped in.
